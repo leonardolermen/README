@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm leonardo lermen</h1>
 <h3 align="center">A passionate backend developer from Brazil</h3>
 
-- 🔭 I’m currently working on [picpay simplificado](https://github.com/leonardolermen/simple)
+- 🔭 I’m currently working on [Auth-Bank](https://github.com/ErickMiyagi/Auth-Bank)
 
 - 🌱 I’m currently learning **rest api**
 
